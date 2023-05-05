@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Manish
-- 👀 I’m interested in Artificial Intellignce and Machine Learning
-- 🌱 I’m currently learning Supervised Learning
+- 👀 I’m interested in Artificial Intellignce, Machine Learning and Data Science projects
 - 💞️ I’m looking to collaborate on ML and AI projects
 - 📫 Reach out to me singhmanish156@gmail.com
 
